@@ -1,0 +1,945 @@
+﻿<!doctype html>
+<html class="no-js" lang="">
+<head>
+<script async src="https://cdn.onthe.io/io.js/gmuxeyw4z95Z"></script>
+<script>
+window._io_config = window._io_config || {};
+window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+window._io_config["0.2.0"].push({
+    page_url: "https://life.pravda.com.ua/columns/2019/02/19/235691/",
+    page_url_canonical: "/columns/2019/02/19/235691/",
+    page_title: "Професії майбутнього: які спеціалісти будуть затребувані післязавтра",
+    page_type: "article",
+    page_language: "ua",
+
+    article_authors: ["Олена Балацанова"],
+    article_categories: ["Погляд"],
+    article_subcategories: ["Погляд"],
+    article_type: "article",
+    article_word_count: "1235",
+    article_publication_date: "Tue, 19 Feb 2019 07:10:17 +0200"
+
+});
+</script>
+<meta http-equiv="content-type" content="text/html; charset=windows-1251">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="document-state" content="state">
+<meta name="revisit-after" content="1 days">
+
+
+<meta name="robots" content="index,follow">
+
+
+<title>Професії майбутнього: які спеціалісти будуть затребувані післязавтра | Українська правда _Життя</title>
+
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="shortcut icon" href="/favicon.ico">
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic&subset=latin,greek,latin-ext,vietnamese,cyrillic-ext' rel='stylesheet' type='text/css'>
+<link rel="preload" as="style" href="/misc/v2/style.css?1" disabled>
+<script type="text/javascript">!function(){function Et(){for(var t=arguments,r={},e=0;e<t.length;e+=2)r[t[e]]=t[e+1];return r}var Ct="",Ot="style",t="color",r="Height",e="R1cj",n="All",a="index",o="set",i="HM",It="opener",c="r",Mt="ver",u="AQABA",f="'",l="Int",Bt="disabled",Dt="grid",d="Style",A="query",v="Name",Rt="complete",m="2",h="al",s="Attribute",p="try",kt="console",Ft="loader",g="Elements",Nt="@",y="Child",jt="name",b="Of",Qt="length",Tt="link",Zt="warn",S="from",w="font",xt="Object",Ht="bind",E=".",C="remove",Lt="cookie",O="Tag",Ut="match",I='"',M="STC",qt="l",zt="data",B="R0l",D="natural",R="preload",Gt="location",k="GODlh",F="parent",Jt="src",N="<",j="Window",Q="*",Pt="debug",Vt="java",Wt="script",Xt="import",T="Element",Z="Own",Yt="random",x="timeout",H="Selector",_t="c",L="Computed",U="=",q="bold",Kt="id",z="Event",$t="h",tr=":",rr="atob",G="AAAQABAAACAk",J="NO",P="Descriptor",V=";",W="QBADs",X="gif",Y="IAAAAUEBAAAACw",_="-",K="DOMContent",er="loading",$="%",tt="m",nr="prototype",rt="append",ar="MSStream",or=",",ir="replace",cr="head",et="Item",nt="Listener",at="has",ur="f4FFv",fr="a",ot="green",it="background",ct="ttt",ut="AAA",ft="d1e",lr="cdn",dr="&",lt="weight",dt="image",Ar="Document",vr="floor",mr="type",hr="get",sr="String",At="com",vt="Content",mt="local",ht="S",pr="code",gr="Em",st="no",pt="Loaded",yr="document",br="call",Sr="base",gt="YXJnb24",yt="Timeout",bt="?",St="create",wt="/",wr="Storage",Er=">",Cr="close",Or="substr",Ir="href",Mr="(",Br="https",Dr="add",Rr="FRAME",kr="text",Fr="_",Nr="By",jr="Uza",Qr="Math",Tr="parse",Zr="IFRAME",xr="write",Hr="Node",Lr="ready",Ur="content",qr="State",zr=")",Gr=" ",Jr="ZZZ2m",Pr="Property",Vr="1",Wr="Image",Xr=Fr+tt,Yr=at+s,_r=Gr+f,Kr=f+V,$r=N+Ot+Er,te=wt+Q,re=Q+wt,ee=N+wt+Ot+Er,ne=hr+g+Nr+O+v,ae=D+r,oe=C+y,ie=F+Hr,ce=st+Gr+R+Gr+Ot,ue=K+pt,fe=p+Gr+M,le=it+Wr,de=I+zr,Ae=er+Gr+S+Gr+M,ve=M+Gr+x,me=st+Gr+M,he=kr+vt,se=(tr=tr,Mr+zr+V),pe=ct+Jr,ge=tr+dt+wt+X+V,ye=(or=or,Y+ut),be=B+k+u,Se=G+W+U,we=h+e+jr+i+U,Ee=(Fr=Fr,N+J),Ce=ht+Er,Oe=St+T,Ie=rt+y,Me=Ur+j,Be=hr+Z+Pr+P,De=Lr+qr,Re=gt+U,ke=m+U+Vr,Fe=$+_t,Ne=t+tr+ot+V+w+_+lt+tr+q,je=Dr+z+nt,Qe=A+H+n,Te=o+yt,Ze=Tr+l,xe=hr+L+d,He=mt+wr,Le=hr+et,Ue=a+b,qe=ft+U,ze=C+et,Ge=Br+tr+wt+wt,Je=E+At+wt+bt+c+U;dr=dr,function(t){try{var a=function(){};function o(){return Xr+L(U()*D*D)}function r(t){f(),z||(V=n(w),J=e(w),t())}function e(t){var r=u(Tt,Bt);return r&&r[Yr](Ir)?(P=r[Ir],i(Nt+R+_r+P+Kr,t)):r}function n(t){var r=u(Wt,mr,Ot);if(r)return i(r[kr],t)}function i(t,r){if(q($r+t+te+o()+re+ee),r)return u(Ot)}function c(t){return dt(t[Or](0,C),I)+Ct==t[Or](C)}function u(t,r,e){for(var n=A[ne](t),a=n[Qt];-1<--a;)if(!r||n[a][Yr](r)&&(!e||n[a][r]==e))return n[a]}function f(){ot[Rt]?ot[ae]||(z=w,J&&J[ie][oe](J),V&&V[ie][oe](V)):0<G--&&lt(f,w)}function l(){if(!V&&!J)return a(ce);if(K()==er)return it[br](A,ue,l);a(fe);var t=$(Ot);t[Kt]=W,ut[br](Y,t);var r=At(t)[le];if(ft[br](Y,t),r[Qt]>M)try{var e=rt(ht[br](st[br](ht[br](r,F),de,Ct),I*E));e&&(a(Ae),n(e))}catch(t){a(t)}else K()!=Rt?(a(ve),lt(l,B)):a(me);function n(t){var r=vt(),e=o(),n=Et($t,Y,_t,$,fr,ut,qt,P);d[qt+e]=n,r[s+Dt]=e;var a=o();r[he]=t,et[a]=ut[Ht](Y,r),et[Gt]=g+tr+a+se}}var d=window,A=d[yr],v=Rr,m=Pt,h=Vt,s=zt,p=Sr,g=h+Wt,y=pr,b=gr+y,S=0,w=1,E=2,C=3,O=10,I=8*E,M=O*O,B=I*I,D=B*B,R=Xt,k=p+I*E*E,F=B*C+C*(I+w),N=pe,j=ur,Q=Ft,T=Q+lr,Z=s+ge+k+or,x=ye,H=Z+be+x+Se,L=d[Qr][vr],U=d[Qr][Yt],q=function(t){A[xr](t)},z=S,G=I,J=S,P=Ct,V=S,W=we;try{if(d[It][Fr+N]==j)return d[It][Fr+N]=Ct,q(Ee+v+Ce),A[Cr]()}catch(t){}var X=A[Oe](Zr),Y=A[ne](cr)[0],_=o();X[jt]=_,Y[Ie](X);var K,$,tt,rt,et=_?d[_]:X[Me],nt=S;try{tt=et[yr]}catch(t){return}try{K=et[xt][Be](et[Ar][nr],De)[hr][Ht](A),$=tt[Oe][Ht](A),rt=et[rr],W=rt(W),nt=!!et[ar]}catch(t){nt=w}if(nt)return n(),e();var at=rt(Re);tt[Lt][Ut](at+Fr+m+ke)&&(a=et[kt][Zt][Ht](et[kt],Fe+b,Ne)),a(Mt,t);var ot=new et[Wr],it=tt[je],ct=(tt[Qe][Ht](A),et[Hr][nr]),ut=ct[Ie],ft=ct[oe],lt=(tt[ne][Ht](A),et[Te][Ht](d)),dt=et[Ze],At=et[xe][Ht](d),vt=$[Ht](A,Wt),mt=et[sr][nr],ht=mt[Or],st=mt[ir];q=tt[xr][Ht](A),L=et[Qr][vr],U=et[Qr][Yt],ot[Jt]=H;var pt=S,gt=et[He]||Et();for(var yt in gt)if(c(yt)){var bt=gt[Le](yt);bt[Qt]<M&&bt[Ue](qe)==S&&(gt[ze](yt),pt=Ge+T+Je+d[Gt]+dr+bt)}if(pt)return d[Gt]=pt;var St=o(),wt=vt();d[St]=r[Ht](d,l),wt[he]=St+se,ut[br](Y,wt)}catch(t){a(t)}}("1906091854")}();</script>
+
+
+<script type="text/javascript" src="/misc/jquery-2.1.4.min.js"></script>
+<script type="text/javascript"  src="/misc/v2/common.js?v=5"></script>
+<script type="text/javascript" src="/misc/jquery.sticky.js"></script>
+
+
+<meta property="fb:app_id" content="592361947628060" />
+
+<meta property="og:title" content="Професії майбутнього: які спеціалісти будуть затребувані післязавтра"/>
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="https://life.pravda.com.ua/columns/2019/02/19/235691/"/>
+<meta property="og:image" content="https://lifeimg.pravda.com/images/doc/3/1/31b8379-sergeynivens-depositphotos1320--------.jpg"/>
+<meta property="og:site_name" content="Українська правда _Життя"/>
+<meta property="og:description"  content="Олена Балацанова, директор київського філіалу компанії “Inter Strudy Consulting”"/>
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@UPZhyttya">
+<meta name="twitter:title" content="Професії майбутнього: які спеціалісти будуть затребувані післязавтра">
+<meta name="twitter:description" content="Олена Балацанова, директор київського філіалу компанії “Inter Strudy Consulting”">
+<meta name="twitter:image:src" content="https://lifeimg.pravda.com/images/doc/3/1/31b8379-sergeynivens-depositphotos1320--------.jpg">
+
+<script type="text/javascript" src="https://adnet.pravda.com/examples/adriver.core.2.min.js"></script> 
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<script type="text/javascript">
+  if(top != self) top.location.replace(location);
+</script>
+
+<style type="text/css">
+<!--
+.drop-navbar .content-menu-link-inside br {display: none;}
+.text-block > a br {display: none;}
+body .pagewrap {overflow: visible;}
+.title-left {float: left; width: 230px; text-align: left; padding: 0 14px 0 10px;}
+.title-right {float: right; width: 230px; text-align: right; padding: 18px 0 0 10px;}
+.post7 .title {font-weight: normal;}
+.post7o .title {font-weight: normal;}
+.post8 .title {font-weight: normal;}
+.searchbutton b {font-weight: normal;}
+
+.banner5 {padding: 0 !important;}
+.alert-grey {padding: 4px 10px 4px 10px; color: #999999; margin: 8px 0 8px 0; border: 1px dotted #900022; font-weight: bold;}
+
+
+.post71 {}
+    .post71 .rel {position: relative; background-color: #96C93D; height: 400px;}
+    .post71 .title { /*position: absolute; width: 300px; zoom: 1; z-index: 2;*/ background-color: #96C93D; font-weight: bold; left: 0px; bottom: 0px;}
+    .post71 .title2 {background-color: #96C93D; padding: 0 8px 12px 10px; overflow: hidden;}
+    .post71 h1 {font-size: 19px; line-height: 1.1em; margin: 7px 9px 5px 10px;}
+    .post71 p {font-size: 12px; padding: 3px 0 0 0; margin: 0;}
+    .post71 .dt {color: #444; font-size: 10px;}
+    .post71 h1 a:link, .post71 p a:link {color: #222; text-decoration: none;}
+    .post71 h1 a:visited, .post71 p a:visited {color: #222; text-decoration: none;}
+    .post71 h1 a:hover, .post71 p a:hover {color: #333; text-decoration: none;}
+    .post71 .gt {background-color: #96C93D; height: 6px;}
+    
+    .post71 .end {overflow: hidden; position: absolute; height: 13px; width: 250px; z-index: 3;}
+    .post71 .end div {background: transparent url(/images/end2.png) no-repeat scroll 0px; //background: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=/images/end2.png, sizingMethod=crop); position: absolute; left: 0px; top: 0px; width: 250px; height: 13px;}
+    .rb {right: 1px; bottom: 0px;}
+
+.post71g {}
+    .post71g .rel {position: relative; background-color: #EEE; height: 400px;}
+    .post71g .title { /*position: absolute; width: 300px; zoom: 1; z-index: 2;*/ background-color: #EEE; font-weight: bold; left: 0px; bottom: 0px;}
+    .post71g .title2 {background-color: #EEE; padding: 0 8px 9px 10px; overflow: hidden;}
+    .post71g h1 {font-size: 19px; line-height: 1.1em; margin: 7px 9px 5px 10px;}
+    .post71g p {font-size: 12px; padding: 3px 0 3px 0; margin: 0;}
+    .post71g .dt {color: #444; font-size: 10px;}
+    .post71g h1 a:link {color: #730B17; text-decoration: none;}
+    .post71g h1 a:visited {color: #872E38; text-decoration: none;}
+    .post71g h1 a:hover {color: #872E38; text-decoration: none;}
+    .post71g p a:link {color: #222; text-decoration: none;}
+    .post71g p a:visited {color: #222; text-decoration: none;}
+    .post71g p a:hover {color: #333; text-decoration: none;}
+    .post71g .gt {background-color: #EEE; height: 8px;}
+    
+    .post71g .end {overflow: hidden; position: absolute; height: 13px; width: 250px; z-index: 3;}
+    .post71g .end div {background: transparent url(/images/end1.png) no-repeat scroll 0px; //background: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=/images/end1.png, sizingMethod=crop); position: absolute; left: 0px; top: 0px; width: 250px; height: 13px;}
+
+ul.mmenu li.zhytlo a:link, ul.mmenu li.zhytlo a:visited { background-color: #82C4DE;color: #FFF; text-decoration: none;}
+ul.mmenu li.zhytlo a:hover {color: #FFF;}
+ul.mmenu li.zhytlo span {padding: 7px 9px 5px 9px; margin: 1px 0 0 0; display: block; float: left; background-color: #82C4DE; border: #730B17 1px solid; border-bottom: none; color: #FFF; text-decoration: none; line-height: 1.3em;}
+ul.mmenu li.zhytlo a.a {padding: 7px 9px 5px 9px; margin: 1px 0 0 0; display: block; float: left; background-color: #82C4DE; border: #730B17 1px solid; border-bottom: none; text-decoration: none; line-height: 1.3em;}
+ul.mmenu li.zhytlo a.a:link, ul.mmenu li.zhytlo a.a:visited {color: #FFF;}
+ul.mmenu li.zhytlo a.a:hover {color: #FFF;}
+
+		ul.mmenu li.onco a:link, ul.mmenu li.onco a:visited { background-color: #94BFF7;color: #000; text-decoration: none;}
+		ul.mmenu li.onco a:hover {color: #730B17;}
+		ul.mmenu li.onco span {padding: 7px 9px 5px 9px; margin: 1px 0 0 0; display: block; float: left; background-color: #94BFF7; border: #730B17 1px solid; border-bottom: none; color: #000; text-decoration: none; line-height: 1.3em;}
+		ul.mmenu li.onco a.a {padding: 7px 9px 5px 9px; margin: 1px 0 0 0; display: block; float: left; background-color: #94BFF7; border: #730B17 1px solid; border-bottom: none; text-decoration: none; line-height: 1.3em;}
+		ul.mmenu li.onco a.a:link, ul.mmenu li.onco a.a:visited {color: #730B17;}
+		ul.mmenu li.onco a.a:hover {color: #730B17;}
+
+ul.mmenu li.neza25 a:link, ul.mmenu li.neza25 a:visited { background-color: #2e3192;color: #fff799; text-decoration: none;}
+ul.mmenu li.neza25 a:hover {color: #fff799;}
+ul.mmenu li.neza25 span {padding: 7px 9px 5px 9px; margin: 1px 0 0 0; display: block; float: left; background-color: #2e3192; border: #730B17 1px solid; border-bottom: none; color: #fff799; text-decoration: none; line-height: 1.3em;}
+ul.mmenu li.neza25 a.a {padding: 7px 9px 5px 9px; margin: 1px 0 0 0; display: block; float: left; background-color: #2e3192; border: #730B17 1px solid; border-bottom: none; text-decoration: none; line-height: 1.3em;}
+ul.mmenu li.neza25 a.a:link, ul.mmenu li.neza25 a.a:visited {color: #fff799;}
+ul.mmenu li.neza25 a.a:hover {color: #fff799;}
+
+ul.mmenu li.water a:link, ul.mmenu li.water a:visited { background-color: #97D8E4;color: #000000; text-decoration: none;}
+ul.mmenu li.water a:hover {color: #000000;}
+ul.mmenu li.water span {padding: 7px 9px 5px 9px; margin: 1px 0 0 0; display: block; float: left; background-color: #97D8E4; border: #730B17 1px solid; border-bottom: none; color: #000000; text-decoration: none; line-height: 1.3em;}
+ul.mmenu li.water a.a {padding: 7px 9px 5px 9px; margin: 1px 0 0 0; display: block; float: left; background-color: #97D8E4; border: #730B17 1px solid; border-bottom: none; text-decoration: none; line-height: 1.3em;}
+ul.mmenu li.water a.a:link, ul.mmenu li.water a.a:visited {color: #000000;}
+ul.mmenu li.water a.a:hover {color: #000000;}
+
+ul.news1 li span {display: -moz-inline-stack; display: inline-block; zoom:1; *display: inline; _overflow: hidden; border: #d5d5d5 1px solid;	zoom: 1; font-size: 11px;	color: #696969;	font-weight: bold; padding: 0px 4px; margin-bottom: 4px;}
+
+.article blockquote{
+    margin: 1em 50px;
+    padding: 5px 5px 5px 10px;
+    border-left: 2px #888888 solid;
+    background-color: #f1f2f4;
+}
+
+.tb_center {text-align: center;}
+#sticky_banner{visibility: visible;display:block;}
+
+@media only screen and (min-width: 568px) {
+.interview-page .statistic-top-block .look-block {margin-left: 50px !important;}
+}
+
+@media screen and (max-width: 860px) {
+.quizz-page .page-head-block .img-wrap {max-height: 100%;}
+} 
+
+.brand-info {border: none; background: none; padding: 0;}
+
+
+.interview-page .mobile-block-wrap > *:not(script):not(style) {display: block; margin: 0 0 15px 0;}
+
+.interview-page .article ul li {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 1.6em;
+    padding: 3px 0;
+}
+
+.fb_iframe_widget_fluid_desktop, .fb_iframe_widget_fluid_desktop span, .fb_iframe_widget_fluid_desktop iframe {width: 100% !important;}
+
+.main .img-wrap img {height: auto !important;}
+-->
+</style>
+
+<!-- Библиотека Адмиксера -->
+<script type='text/javascript'>
+                (function() {
+                var w = window,
+                        d = document,
+                        protocol =/https/i.test(w.location.protocol) ? 'https:' : 'http:',
+                        aml = typeof admixerML !== 'undefined' ? admixerML : { };
+                aml.fn = aml.fn || [];
+                aml.invPath = aml.invPath || (protocol + '//inv-nets.admixer.net/');
+                aml.cdnPath = aml.cdnPath || (protocol + '//cdn.admixer.net/');
+                if (!w.admixerML)
+                {
+                    var lodash = document.createElement('script');
+                    lodash.id = 'amlScript';
+                    lodash.async = true;
+                    lodash.type = 'text/javascript';
+                    lodash.src = aml.cdnPath + 'scripts3/loader2.js';
+                    var node = d.getElementsByTagName('script')[0];
+                    node.parentNode.insertBefore(lodash, node);
+                    w.admixerML = aml;
+                }
+            })();
+            </script>
+
+<!-- Библиотека и код инициализациии Гоу2нет-->
+
+<script type='text/javascript'>
+                (function() {
+                var w = window,
+                        d = document,
+                        protocol =/https/i.test(w.location.protocol) ? 'https:' : 'http:',
+                        aml = typeof admixerML !== 'undefined' ? admixerML : { };
+                aml.fn = aml.fn || [];
+                aml.invPath = aml.invPath || (protocol + '//inv-nets.admixer.net/');
+                aml.cdnPath = aml.cdnPath || (protocol + '//cdn.admixer.net/');
+                if (!w.admixerML)
+                {
+                    var lodash = document.createElement('script');
+                    lodash.id = 'amlScript';
+                    lodash.async = true;
+                    lodash.type = 'text/javascript';
+                    lodash.src = aml.cdnPath + 'scripts3/loader2.js';
+                    var node = d.getElementsByTagName('script')[0];
+                    node.parentNode.insertBefore(lodash, node);
+                    w.admixerML = aml;
+                }
+            })();
+            </script>
+
+
+<script type='text/javascript'>
+admixerML.fn.push(function() {
+admixerML.defineSlot({z: '39e31005-5592-4da6-8468-743f176ab422', ph: 'admixer_39e3100555924da68468743f176ab422_zone_13361_sect_4035_site_3599', i: 'inv-nets'});
+admixerML.defineSlot({z: '364910f9-714f-47b9-8177-b22fb567cb53', ph: 'admixer_364910f9714f47b98177b22fb567cb53_zone_13364_sect_4035_site_3599', i: 'inv-nets'});
+admixerML.singleRequest();
+});
+</script>
+
+</head>
+<body>
+
+    <!--[if lt IE 10]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+  <div class="main interview-page">
+    <div class="pagewrap">
+    <div class="banner">
+
+<script type="text/javascript" charset="utf-8"><!--<![CDATA[
+/* life.pravda.com.ua main-730x90 -- size: 730x90 */
+document.write(unescape('%3C')+'script src="https://adnet.pravda.com/scripts/lsuqkqi9o3ux6y3s.js?'+Date.now()+'" type="text/javascript"'+unescape('%3E%3C')+'/script'+unescape('%3E'))
+//]]>--></script>
+
+
+
+        </div>
+      <header class="header">        
+          <div class="top-logo-block">
+            <a class="logo" href="http://www.pravda.com.ua"><img src="/images/v2/img-up-logo.svg" alt=""></a>
+          </div>
+            <nav class="navbar navbar-default navbar-default-top">
+              <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-nav-left navbar-top-nav-left">
+<li class="navbar-link"><a class="navbar-link-inside" href="//www.pravda.com.ua">Політика</a></li>
+<li class="navbar-link"><a class="navbar-link-inside" href="//www.epravda.com.ua">Економіка</a></li>
+<li class="navbar-link"><a class="navbar-link-inside" href="//www.eurointegration.com.ua">Європа</a></li>
+<li class="navbar-link"><a class="navbar-link-inside" href="//blogs.pravda.com.ua">Блоги</a></li>
+
+                </ul>
+                <ul class="nav navbar-nav navbar-nav-right navbar-top-nav-right">
+<li class="navbar-link"><a class="navbar-link-inside" href="//www.istpravda.com.ua">Історія</a></li>
+<li class="navbar-link"><a class="navbar-link-inside" href="//forum.pravda.com.ua">Форум</a></li>
+<li class="navbar-link"><a class="navbar-link-inside" href="//tabloid.pravda.com.ua">Tabloid</a></li>
+
+                </ul>
+              </div>
+            </nav>
+         <div class="logo-block">            
+            <a class="logo" href="/">
+              <i class="logo-template"></i>
+              <img class="logo-photo" src="/images/doc/9/6/960a633-depositphotos-465-6.jpg" alt="">
+            </a>
+          </div>
+        <nav class="navbar navbar-default" role="navigation">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-button-mob" data-toggle="modal" data-target=".menu-mob">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </div>
+          <div class="modal fade menu-mob" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">            
+              <div class="modal-dialog-flex">
+                <div class="close-block" data-dismiss="modal" aria-hidden="true">
+                  <i class="icon-close"></i>
+                </div>
+                <div class="left-mobile-menu-block">           
+                 <ul data-vr-zone="Mobile main menu" class="nav navbar-nav">
+
+                    <li data-vr-contentbox="Суспільство" data-vr-contentbox-url="/society/" class="navbar-link navbar-link_color-1"><a data-vr-headline class="navbar-link-inside" href="/society/">Суспільство</a></li>
+
+                    <li data-vr-contentbox="Здоров'я" data-vr-contentbox-url="/health/" class="navbar-link navbar-link_color-1"><a data-vr-headline class="navbar-link-inside" href="/health/">Здоров'я</a></li>
+
+                    <li data-vr-contentbox="КУЛЬТУРА" data-vr-contentbox-url="/culture/" class="navbar-link navbar-link_color-1"><a data-vr-headline class="navbar-link-inside" href="/culture/">КУЛЬТУРА</a></li>
+
+                    <li data-vr-contentbox="Спецпроекти" data-vr-contentbox-url="/projects/" class="navbar-link navbar-link_color-1"><a data-vr-headline class="navbar-link-inside" href="/projects/">Спецпроекти</a></li>
+
+                    <li data-vr-contentbox="Погляд" data-vr-contentbox-url="/columns/" class="navbar-link navbar-link_color-1"><a data-vr-headline class="navbar-link-inside" href="/columns/">Погляд</a></li>
+
+                    <li data-vr-contentbox="Подорожі" data-vr-contentbox-url="/travel/" class="navbar-link navbar-link_color-1"><a data-vr-headline class="navbar-link-inside" href="/travel/">Подорожі</a></li>
+
+                  </ul>
+                   <ul data-vr-zone="Mobile sub menu" class="content-menu">
+
+                    <li data-vr-contentbox="Читати <br>захопливо! " data-vr-contentbox-url="/projects/reading/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/reading/">Читати <BR>захопливо! </a></li>
+
+                    <li data-vr-contentbox="Майбутнє школи" data-vr-contentbox-url="/projects/majbutnje-shkoly/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/majbutnje-shkoly/">Майбутнє школи</a></li>
+
+                    <li data-vr-contentbox="&quot;Життя з &quot;нуля&quot;" data-vr-contentbox-url="/projects/5a02dbe2cc926/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/5a02dbe2cc926/">"Життя з "нуля"</a></li>
+
+                    <li data-vr-contentbox="Нові громади" data-vr-contentbox-url="/projects/novi-gromadi/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/novi-gromadi/">Нові громади</a></li>
+
+                    <li data-vr-contentbox="Агенти змін в освіті" data-vr-contentbox-url="/projects/osvita/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/osvita/">Агенти змін в освіті</a></li>
+
+                    <li data-vr-contentbox="Формула майбутнього" data-vr-contentbox-url="/projects/brain-and-ukraine/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/brain-and-ukraine/">Формула майбутнього</a></li>
+
+                    <li data-vr-contentbox="Шана різноманіттю" data-vr-contentbox-url="/projects/riznomanittya/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/riznomanittya/">Шана різноманіттю</a></li>
+
+                    <li data-vr-contentbox="Воїни добра" data-vr-contentbox-url="/projects/volunteers/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/volunteers/">Воїни добра</a></li>
+
+                    <li data-vr-contentbox="Спадщина Євромайдану" data-vr-contentbox-url="/projects/5a0b01b1bee64/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/5a0b01b1bee64/">Спадщина Євромайдану</a></li>
+
+                    <li data-vr-contentbox="<span>Хмільний ви</span>beer" data-vr-contentbox-url="/projects/vybeer/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/vybeer/"><SPAN>Хмільний ви</SPAN>BEER</a></li>
+
+                    <li data-vr-contentbox="#KinoInUa" data-vr-contentbox-url="/projects/kinoinua/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/kinoinua/">#KINOINUA</a></li>
+
+                  </ul>
+                </div>
+                <div class="right-mobile-menu-block">      
+                  <ul class="nav navbar-nav">
+<li class="navbar-link"><a class="navbar-link-inside" href="//www.pravda.com.ua">Політика</a></li>
+<li class="navbar-link"><a class="navbar-link-inside" href="//www.epravda.com.ua">Економіка</a></li>
+<li class="navbar-link"><a class="navbar-link-inside" href="//www.eurointegration.com.ua">Європа</a></li>
+<li class="navbar-link"><a class="navbar-link-inside" href="//blogs.pravda.com.ua">Блоги</a></li>
+
+<li class="navbar-link"><a class="navbar-link-inside" href="//www.istpravda.com.ua">Історія</a></li>
+<li class="navbar-link"><a class="navbar-link-inside" href="//forum.pravda.com.ua">Форум</a></li>
+<li class="navbar-link"><a class="navbar-link-inside" href="//tabloid.pravda.com.ua">Tabloid</a></li>
+
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>          
+          <div data-vr-zone="Main menu" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav navbar-nav-left">
+
+              <li data-vr-contentbox="Суспільство" data-vr-contentbox-url="/society/" class="navbar-link navbar-link_color-1"><a data-vr-headline class="navbar-link-inside" href="/society/">Суспільство</a></li>
+
+
+              <li data-vr-contentbox="Здоров'я" data-vr-contentbox-url="/health/" class="navbar-link navbar-link_color-2"><a data-vr-headline class="navbar-link-inside" href="/health/">Здоров'я</a></li>
+
+
+              <li data-vr-contentbox="КУЛЬТУРА" data-vr-contentbox-url="/culture/" class="navbar-link navbar-link_color-3"><a data-vr-headline class="navbar-link-inside" href="/culture/">КУЛЬТУРА</a></li>
+
+            </ul>
+            <ul class="nav navbar-nav navbar-nav-right">
+
+
+              <li data-vr-contentbox="Спецпроекти" data-vr-contentbox-url="/projects/" class="navbar-link navbar-link_color-4"><a data-vr-headline class="navbar-link-inside" href="/projects/">Спецпроекти</a></li>
+
+
+              <li data-vr-contentbox="Погляд" data-vr-contentbox-url="/columns/" class="navbar-link navbar-link_color-5 navbar-link-active"><a data-vr-headline class="navbar-link-inside" href="/columns/">Погляд</a></li>
+
+
+              <li data-vr-contentbox="Подорожі" data-vr-contentbox-url="/travel/" class="navbar-link navbar-link_color-1"><a data-vr-headline class="navbar-link-inside" href="/travel/">Подорожі</a></li>
+
+
+            </ul>
+
+           <div class="login-wrap">
+             <button class="search-button" data-toggle="modal" data-target=".search-popup"></button>
+           </div>
+          </div>
+        </nav>
+        <div data-vr-zone="Menu projects" class="drop-navbar">
+          <ul class="content-menu">
+
+            <li data-vr-contentbox="Читати <br>захопливо! " data-vr-contentbox-url="/projects/reading/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/reading/">Читати <BR>захопливо! </a></li>
+
+            <li data-vr-contentbox="Майбутнє школи" data-vr-contentbox-url="/projects/majbutnje-shkoly/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/majbutnje-shkoly/">Майбутнє школи</a></li>
+
+            <li data-vr-contentbox="&quot;Життя з &quot;нуля&quot;" data-vr-contentbox-url="/projects/5a02dbe2cc926/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/5a02dbe2cc926/">"Життя з "нуля"</a></li>
+
+            <li data-vr-contentbox="Нові громади" data-vr-contentbox-url="/projects/novi-gromadi/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/novi-gromadi/">Нові громади</a></li>
+
+            <li data-vr-contentbox="Агенти змін в освіті" data-vr-contentbox-url="/projects/osvita/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/osvita/">Агенти змін в освіті</a></li>
+
+            <li data-vr-contentbox="Формула майбутнього" data-vr-contentbox-url="/projects/brain-and-ukraine/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/brain-and-ukraine/">Формула майбутнього</a></li>
+
+            <li data-vr-contentbox="Шана різноманіттю" data-vr-contentbox-url="/projects/riznomanittya/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/riznomanittya/">Шана різноманіттю</a></li>
+
+            <li data-vr-contentbox="Воїни добра" data-vr-contentbox-url="/projects/volunteers/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/volunteers/">Воїни добра</a></li>
+
+            <li data-vr-contentbox="Спадщина Євромайдану" data-vr-contentbox-url="/projects/5a0b01b1bee64/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/5a0b01b1bee64/">Спадщина Євромайдану</a></li>
+
+            <li data-vr-contentbox="<span>Хмільний ви</span>beer" data-vr-contentbox-url="/projects/vybeer/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/vybeer/"><SPAN>Хмільний ви</SPAN>BEER</a></li>
+
+            <li data-vr-contentbox="#KinoInUa" data-vr-contentbox-url="/projects/kinoinua/" class="navbar-link"><a data-vr-headline class="content-menu-link-inside" href="/projects/kinoinua/">#KINOINUA</a></li>
+
+          </ul>
+        </div>
+      </header>
+    </div> <!--end header-->
+    
+    
+    <div class="banner">
+<center>
+<!--  AdRiver code START. Type:AjaxJS Site: pravda SZ: life_970-90  BN:20 -->
+<div id="adriver_banner_1926506507"></div>
+<script type="text/javascript">
+new adriver("adriver_banner_1926506507", {sid:177521, bt:52, sz:'life_970-90', bn:20});
+</script>
+<!--  AdRiver code END  -->
+</center>
+<br>
+</br>
+    </div>
+
+
+
+<div class="page-article-code"></div>
+
+<div class="page-head-block">
+    <div class="img-wrap">
+        <img src="https://lifeimg.pravda.com/images/doc/0/9/099741e-sergeynivens-depositphotos1320.jpg">
+        <div class="text-wrap">
+            <div class="text-block">
+                <h2 class="head">Професії майбутнього: які спеціалісти будуть затребувані післязавтра</h2>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="pagewrap page-mobile-wrap">
+    <div class="main-page-wrap">
+        <div class="article-flex-wrap">
+            <div class="article-column">
+                <div class="article-wrap">
+
+                    <div class="sidebar-autor-block">
+
+                        <div class="article-announcement-block">
+                            <div class="article-announcement-photo article-announcement-photo-block-1">
+                                <img src="https://lifeimg.pravda.com/images/doc/2/4/2466eab-aliona-balatsanova1.jpg">
+                            </div>
+                            <a href="/authors/5575925835912/" class="article-announcement-text"> 
+                            <span class="autor-name">Олена Балацанова</span>           
+                            <span class="autor-desctiption">директор київського філіалу компанії "Inter Strudy Consulting"</span>
+                            </a>
+                        </div>
+
+
+                    </div>
+
+                    <div class="statistic-bottom-block statistic-top-block">
+                        <div class="net-block">
+<div class="fbie"><script type="text/javascript">
+
+var isIE7 = (navigator.userAgent.toLowerCase().substr(25,6)=="msie 7") ? true : false;
+
+if(isIE7){
+document.write("<iframe src=\"//www.facebook.com/plugins/share_button.php?href="+encodeURIComponent(document.URL)+"&amp;layout=button_count&amp;appId=177855928894402\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden;\" allowTransparency=\"true\"></iframe>");
+}else{
+document.write("<div class=\"fb-share-button\" data-href=\""+document.URL+"\" data-layout=\"button_count\"></div>");
+}
+</script></div>
+                        </div>
+                        <div class="look-block">
+
+                            <i class="look-icon-dark"></i>
+                            <span class="statistic-text">52874
+</span>
+
+                        </div>
+                        <div class="comment-bottom-block">
+
+                            <a href="#comments">
+                            <i class="comment-icon-dark"></i>
+                            <span class="statistic-text"><span class="fb-comments-count" data-href="https://life.pravda.com.ua/columns/2019/02/19/235691/"></span></span>
+                            </a>  
+
+                        </div>
+                        <div class="data-block">
+                            <span class="data">19 лютого 2019</span>
+                        </div>
+                    </div>
+                    <article class="article" data-io-article-url="https://life.pravda.com.ua/columns/2019/02/19/235691/?fbclid=IwAR2qSUEtVzoza1dnV4iu984zKFeVg3D4iW-LUh3ao3rp9FDO_qiutgoalXQ">
+                        <p>Медичний маркетолог, молекулярний дієтолог, рециклінг-еколог, спеціаліст із навігації в умовах Арктики та дизайнер віртуальних світів.</p>
+<p>Всі ці слова &ndash; це не терміни із футуристичного блокбастеру, а цілком реальні професії уже найближчого майбутнього.</p>
+<p>Швидкість змін у світі зростає шаленими темпами, а складність професійних задач неупинно збільшується.</p>
+<p>На початку 2000-х ми не чули таких слів, як хедхантер, менеджер соціальних мереж, СЕО-оптимізатор тощо. Утім зараз це одні із найбільш необхідних спеціалістів, без яких не "живе" жоден бізнес.</p>
+<p>І от знову, так само як і 20 років тому, ми чуємо нові, майже фантастичні слова та спеціальності, проте ще не зовсім розуміємо той необхідний набір софт та хард скіллз, без яких не стати ані спеціалістом нової професії, ані просто професіоналом, який знатиме свою справу від А до Я та й матиме справді високий гонорар. Але про все по порядку.</p><div class="article_300_banner_mobile"></div>
+<h3 style="text-align: center;"><strong>Набір професійних якостей</strong></h3>
+<p></p>
+<p>Уже в найближчі 15-20 років і в Україні, і в світі будуть затребувані зовсім нові спеціалісти, які не лише розбиратимуться у своїй галузі, а й матимуть крос-галузеву спеціалізацію.</p>
+<p>До нас часто звертаються батьки і діти перед якими стоїть завдання визначитися із майбутньою професією. Утім дуже часто вони не можуть чітко обрати єдиний напрямок.</p>
+<p>Сьогоднішні діти опановують безліч додаткових навичок, працюючи майже без вихідних. Тому іноді ми радимо не фокусуватися на одній професії, а розглянути одразу декілька і обрати спеціалізацію саме на перехресті галузей, бо за цим майбутнє.</p>
+<p>1.<strong> Крос-галузева спеціалізація</strong></p>
+<p>Мова йде про те, що спеціаліст повинен буде мати набір навичок та знань, що дадуть можливість знайти роботу на перехресті галузей.</p>
+<p>Наприклад, якщо людина має медичну або фармацевтичну освіту та непогано розбирається в ІТ, йому відкриваються нові горизонти і його з радістю забере до себе будь-який фарм-гігант на посаду біофармаколога, ІТ-генетика, клінічного біоінформатика, генетичного консультанта або мережевого лікаря.</p>
+<p><!-- Composite Start --> <div id="M428116ScriptRootC381027"> <div id="M428116PreloadC381027"> Loading... </div> <script> (function(){ var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:'; var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M428116ScriptRootC381027")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];} catch(e){var iw=d;var c=d[gi]("M428116ScriptRootC381027");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=381027;c[ac](dv); var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.mgid.com/p/u/pub.pravda.com.ua.381027.js?t="+D.getYear()+D.getMonth()+D.getUTCDate()+D.getUTCHours();c[ac](s);})(); </script> </div> <!-- Composite End -->
+
+<!-- Composite Start --> <div id="M428116ScriptRootC368910"> <div id="M428116PreloadC368910">  </div> <script> (function(){ var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:'; var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M428116ScriptRootC368910")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];} catch(e){var iw=d;var c=d[gi]("M428116ScriptRootC368910");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=368910;c[ac](dv); var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.mgid.com/p/u/pub.pravda.com.ua.368910.js?t="+D.getYear()+D.getMonth()+D.getUTCDate()+D.getUTCHours();c[ac](s);})(); </script> </div> <!-- Composite End --></p>
+<p>Тому якщо у майбутнього абітурієнта є кілька талантів, важливо подумати про те, чи зможе дитина стати крос-галузевим спеціалістом та не обмежувати його в одній спеціальностей.</p>
+<p>2.<strong> Надпрофесійні уміння та навички </strong></p>
+<p>Ці якості, про які піде мова далі, допоможуть завжди бути затребуваним спеціалістом, здійснювати перехід між різними галузями та підвищувати власну продуктивність та ефективність.</p>
+<p>Отже, до таких якостей можна зарахувати:</p>
+<ul>
+<li>Системне мислення. Це вміння самостійно визначати складні задачі та вирішувати їх;</li>
+<li>Мультимовність, володіння кількома іноземними мовами;</li>
+</ul>
+<p>На сьогоднішній день серед дітей, які приходять із запитом на вступ до іноземних вишів, майже немає таких, хто володів би лише англійською.</p>
+<p>Найчастіше діти до кінця 11-го класу володіють англійською на рівні С1, а друга мова наздоганяє першу.</p>
+<p>Більше за все діти вивчають або німецьку, або французьку і мають впевнений В2.</p>
+<p>Рідше &ndash; китайську та чеську. Але ми однозначно можемо сказати, що китайська &ndash; це тренд, який повільно, але впевнено набирає обертів.</p>
+<ul>
+<li>Френдлі гнучкість, як уміння знаходити спільну мову і працювати із колективом, окремими людьми та групами;</li>
+<li>Програмування ІТ-рішень, роботи зі штучним інтелектом та вміння керувати складними автоматизованими комплексами;</li>
+<li>Вміння керувати проектами і процесами, ставити задачі собі самостійно, без вказівок від вищого керівництва;</li>
+<li>Клієнтоорієнтованість;</li>
+<li>Стресостійкість, або вміння працювати у режимі швидкої зміни умов задач, уміння швидко приймати рішення, керувати та розподіляти свій час та ресурси,</li>
+<li>Креатив та естетичний смак, розуміння сучасних трендів та їх тонке відчуття;</li>
+</ul>
+<h3 style="text-align: center;"><strong>Галузі-чемпіони майбутнього</strong></h3>
+<p></p>
+<blockquote>
+<p><strong>Біотехнології</strong></p>
+</blockquote>
+<p>У найближчі 10 років вона не лише розвиватиметься сама, а й поступово змінюватиме такі галузі як медицина, енергетика, міське та сільське хазяйство.</p>
+<p>У перспективі, розвиток біотехнологій призведе до заміни виробництва хімічних та лікарських засобів та побутової хімії на виробництво препаратів біосинтезу, наприклад із живих систем, до розвитку агротехнологій, до появи органічних тканин тощо.</p>
+<p>Професії майбутнього у біотехнологіях:</p>
+<ul>
+<li><strong>Урбаніст-еколог;</strong></li>
+<li><strong>Архітектор живих систем;</strong></li>
+<li><strong>Системний біотехнолог;</strong></li>
+<li><strong>Біофармаколог;</strong></li>
+<li><strong>ГМО-агроном;</strong></li>
+<li><strong>СІТІ-фермер; </strong></li>
+</ul>
+<p>Бажання вчитися на біотехнологіях цілком розповсюджена практика. До нас часто звертаються і хлопці, і дівчата із таким запитом. То ж можна сказати, що українські абітурієнти слідкують за трендами.</p>
+<blockquote>
+<p><strong>Медицина </strong></p>
+</blockquote>
+<p>Медицина &ndash; це чи не найбільш перспективна галузь у контексті змін. Зокрема тут відбудеться перехід від діагностики та лікування дисфункцій, хвороб окремих органів до системної роботи із організмом людини.</p>
+<p>Тому популярності набуває превентивна медицина, основним завданням якої є визначити можливі захворювання, передбачити їх та зробити все, щоб уникнути небезпечних наслідків.</p>
+<p></p>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4177955927398446"
+     data-ad-slot="1848005153"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<p></p>
+<p>Майбутня медицина принесе з собою найточнішу діагностику, можливість прогнозування хвороб, комп&rsquo;ютерне моделювання прогнозу та лікування, високоточну атоматизовану мікрохірургію, вирощення органів та тканин, а також мікродіагностичні пристрої із підключенням до мережі, що дозволять лікарю терміново повідомити лікарю про важливі зміни у здоровї пацієнта.</p>
+<p>Професії майбутнього у медицині:</p>
+<ul>
+<li><strong>ІТ Медик;</strong></li>
+<li><strong>Архітектор медичного обладнання;</strong></li>
+<li><strong>Біоетик (спеціаліст із нормативно-правових та етичних аспектів)</strong></li>
+<li><strong>Генетичний консультант;</strong></li>
+<li><strong>Клінічний біоінформатик;</strong></li>
+<li><strong>Медичний маркетолог;</strong></li>
+<li><strong>R&amp;D менеджер охорони здоров&rsquo;я (спеціаліст із комунікацій);</strong></li>
+<li><strong>Молекулярний дієтолог;</strong></li>
+<li><strong>Оператор медичних роботів;</strong></li>
+<li><strong>ІТ-генетик;</strong></li>
+<li><strong>Спеціаліст із кіберпротезування;</strong></li>
+<li><strong>Спеціаліст із кристалографії (спеціаліст із використання кристалів у медицині);</strong></li>
+<li><strong>Проектант життя медичних закладів (професіонал із розробки життєвого циклу лікарень);</strong></li>
+<li><strong>Експерт із персоніфікованої медицини (спеціаліст, що досліджує генетичну карту пацієнта та розробляє індивідуальні програми його супроводу, а також пропонує відповідні страхові медичні продукти);</strong></li>
+<li><strong>Консультант із здорового старіння;</strong></li>
+<li><strong>Мережевий лікар (лікар, що ставитиме діагнози он-лайн);</strong></li>
+</ul>
+<p>До нас часто звертаються розчаровані у медичній українській освіті. Провчившись 2-3 курси студенти приходять із бажанням скласти академічну різницю у ВУЗах світу та перевестися на навчання туди.</p>
+<p>Однак, на жаль, жодний ВУЗ академічну різницю не зарахує, або студентові доведеться складати величезний список предметів, яких в українському виші в нього не було. Тож якщо дитина мріє вчитися на медика за кордоном, необхідно з першого курсу вступати саме туди.</p>
+<blockquote>
+<p><strong>Енергетика та її накопичення</strong></p>
+</blockquote>
+<p>Одним із символів нового екологічного суспільства стане атомна енергетика, що зможе забезпечити стабільні ціни на електричну енергію та мінімально впливатиме на оточуюче середовище.</p>
+<p>Крім того, активно розпочне свій розвиток приватна альтернативна енергетика та з&rsquo;являться нові типи генерації енергії: енергія тіла, збір енергії з міських поверхонь, рекуперації енергії тощо.</p>
+<p>Професії майбутнього у енергетиці:</p>
+<ul>
+<li><strong>Менеджер із модернізації;</strong></li>
+<li><strong>Розробник систем мікрогенерації;</strong></li>
+<li><strong>Метеоенергетик;</strong></li>
+<li><strong>Проектант систем рекуперації;</strong></li>
+<li><strong>Спеціаліст із локальних систем енергопостачання;</strong></li>
+<li><strong>Дизайнер портативних пристроїв (одяг, взуття тощо);</strong></li>
+<li><strong>Проектант енергонакопичувальних пристроїв;</strong></li>
+</ul>
+<blockquote>
+<p><strong>Енергомережі та управління енергоспоживанням</strong></p>
+</blockquote>
+<p>Ключова зміна даної сфери &ndash; поява розумних мереж. Дані технології зможуть аналізувати рівні споживання та оптимізувати витрати.</p>
+<p>Більше того, розумні мережі захистять користувачів від виходу із ладу системи та втрати енергії.</p>
+<p>І що дуже актуально для України, мережі дадуть можливість самостійно обирати постачальника послуги та керувати витратами і споживанням.</p>
+<p>Професії майбутнього у сфері:</p>
+<ul>
+<li><strong>Маркетолог енергетичних ринків;</strong></li>
+<li><strong>Захисник прав споживачів електроенергії;</strong></li>
+<li><strong>Енергоаудитор;</strong></li>
+<li><strong>Розробник систем енергоспоживання;</strong></li>
+<li><strong>Системний інженер інтелектуальних мереж;</strong></li>
+<li><strong>Енергозаправник;</strong></li>
+<li><strong>Контролер енергомереж для розподіленої енергетики;</strong></li>
+</ul>
+<blockquote>
+<p><strong>Транспорт </strong></p>
+</blockquote>
+<p>Потреби та вимоги соціуму до транспортної системи міст зростають щороку. Особлива увага має приділятися безпеці та комфорту.</p>
+<p>Крім того, на дороги виходять безпілотні авто, тож інтелектуальні системи у керуванні транспортною мережею є необхідною мірою.</p>
+<p>Професії майбутнього у транспортній сфері:</p>
+<ul>
+<li><strong>Оператор автоматизованих транспортних систем;</strong></li>
+<li><strong>Інженер із безпеки транспортних мереж;</strong></li>
+<li><strong>Оператор крос-логістики; </strong></li>
+<li><strong>Проектувальник інтермодальних транспортних вузлів (розробляє системи пересадки з одного транспортного засобу на інший);</strong></li>
+<li><strong>Технік інтермодальних транспортних систем;</strong></li>
+<li><strong>Будівник "Розумних" доріг;</strong></li>
+<li><strong>Проектувальних композитних конструкцій для транспортних засобів;</strong></li>
+<li><strong>Проектувальних високошвидкісних залізничних колій;</strong></li>
+<li><strong>Архітектор інтелектуальних систем управління;</strong></li>
+</ul>
+<p>Сюди ж можна віднести и кілька професій пов&rsquo;язаних із водним транспортом та авіації:</p>
+<ul>
+<li><strong>Портовий еколог;</strong></li>
+<li><strong>Системний інженер морської інфраструктури;</strong></li>
+<li><strong>Спеціаліст із навігації в умовах Арктики;</strong></li>
+<li><strong>Проектувальник інтерфейсів безпілотної авіації;</strong></li>
+<li><strong>Інженер із виробництва малої авіації;</strong></li>
+<li><strong>Аналітик експлуатаціонних даних;</strong></li>
+<li><strong>Проектувальних дерижаблів;</strong></li>
+<li><strong>Проектувальних інфраструктури для повітряного плавання;</strong></li>
+<li><strong>Розробник інтелектуальних систем управління динамічною диспетчирезацією;</strong></li>
+<li><strong>Космобіолог;</strong></li>
+<li><strong>Космогеолог;</strong></li>
+<li><strong>Менеджер космотуризму;</strong></li>
+</ul>
+<blockquote>
+<p><strong>Освіта</strong></p>
+</blockquote>
+<p>У галузі освіти вже зараз затребувані:</p>
+<ul>
+<li><strong>Модератор;</strong></li>
+<li><strong>Розробник освітніх траекторій;</strong></li>
+<li><strong>Тьютор;</strong></li>
+<li><strong>Організатор проектного навчання;</strong></li>
+<li><strong>Координатор освітніх он-лайн платформ;</strong></li>
+<li><strong>Ментор стартапів;</strong></li>
+<li><strong>Ігромастер:</strong></li>
+<li><strong>Ігровикладач;</strong></li>
+<li><strong>Тренер із майнд-фітнесу;</strong></li>
+</ul>
+<p>Нові професії також затребувані у сфері нанотехнологій та ІТ (мережевий юрист, дизайнер віртуальних світів, ІТ проповідник та цифровий лінгвіст), у сфері видобутку корисних копалин, будівництві (спеціаліст енергонульових будинків, прораб-вотчер, проектувальник 3Д-друку), у робототехніці та машинобудуванні, фінансовому секторі (розробник персональних пенсійних планів, оцінювальник інтелектуальної власності), екології, менеджменті (тайм-брокер, трендвочер, віртуальний адвокат) та соціальній сфері (медіатор соціальних конфліктів, робітник із адаптації людей із обмеженими можливостями через інтернет).</p>
+<p></p>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4177955927398446"
+     data-ad-slot="1848005153"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<p></p>
+<p>Вибір професії &ndash; штука складна. Але не варто забувати, що в умовах швидких змін так само легко змінити і спеціальність, головне розвивати "скіли", які максимально прокачують мозок та роблять його дуже гнучким.</p>
+<p>Своїм клієнтам, яким важко визначитися із майбутнім дитини, або які готуються з чогось починати, ми радимо вивчати іноземні мови та сфокусуватися на підборі декількох професій, які найбільше відповідають талантам та здібностям дитини.</p>
+<p>Головне не форсувати події та дати спокійно подумати і прийняти правильне рішення, від якого залежатиме все подальше життя.</p>
+<p><em><strong>Олена Балацанова</strong>, директор київського філіалу компанії "Inter Strudy Consulting", спеціально для УП.Життя</em></p>
+<p><em>Титульна світлина&nbsp;SergeyNivens/<a href="https://ua.depositphotos.com/" target="_blank">Depositphotos</a></em></p>
+<p><em>Вас також може зацікавити:</em></p>
+<blockquote>
+<p><strong><a href="/columns/2018/11/5/233993/">П&rsquo;ять думок про майбутнє освіти: які професії обирати зараз</a></strong></p>
+<p><strong><a href="/society/2018/02/21/229123/">У Гройсмана розповіли, яких дефіцитних професій можна повчитися за держкошт</a></strong></p>
+</blockquote>
+                    
+</p>
+                    </article>
+                </div>
+
+        <div class="net-wrap">
+            <div class="net-block">
+<div class="h5"></div>
+<table border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td><div class="fbie"><script type="text/javascript">
+if(isIE7){
+document.write("<iframe src=\"//www.facebook.com/plugins/share_button.php?href="+encodeURIComponent(document.URL)+"&amp;layout=button_count&amp;appId=177855928894402\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden;\" allowTransparency=\"true\"></iframe>");
+}else{
+document.write("<div class=\"fb-share-button\" data-href=\""+document.URL+"\" data-layout=\"button_count\"></div>");
+}
+</script></div>
+</td>
+<td style="padding: 0 0 0 15px;"><script language="javascript" type="text/javascript"> 
+var title = $("meta[name='twitter:title']").attr("content");
+title=title.replace(/\"/gi,"&quot;").replace(/\'/gi,"&apos;");
+document.write('<a href=\"http://twitter.com/share\" class=\"twitter-share-button\"  data-via=\"UPZhyttya\" data-text=\"'+title+'\" data-count=\"horizontal\">Tweet</a>');
+</script><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+  </tr>
+</table>
+<div class="h5"></div>
+            </div>
+        </div>
+        <div class="blurb">
+            <a class="blurb-link" href=""></a>
+        </div>
+
+<div>
+
+<!-- LUN start -->
+<script type="text/javascript" src="https://orbit.lun.ua/js/0162d774.js"></script><span style="color: #ccc; width: 100%; display: block; padding: 3px 0; font-size: 9px; font-family: 'Trebuchet MS', Arial; font-weight: normal; font-style: normal; text-align: center">powered by <a href="https://www.lun.ua" style="color:#ccc;">lun.ua</a></span>
+<!-- LUN end -->
+
+</div>
+
+
+<a name="comments"></a>
+<div class="fb-comments" data-href="https://life.pravda.com.ua/columns/2019/02/19/235691/" data-numposts="5" data-width="100%"></div>
+
+
+
+            </div>
+        </div>
+
+        <div class="sidebar">
+            <div class="mobile-block-wrap">
+                <div class="article_300_banner">
+
+<div style="width: 300px">
+<script type="text/javascript" charset="utf-8"><!--<![CDATA[
+/* life.pravda.com.ua art-300x250 -- size: 300x250 */
+document.write(unescape('%3C')+'script src="https://adnet.pravda.com/scripts/1zje8y14y65geapx.js?'+Date.now()+'" type="text/javascript"'+unescape('%3E%3C')+'/script'+unescape('%3E'))
+//]]>--></script>
+</div>
+
+<!-- Брендинг -->
+<!--  AdRiver code START. Type:AjaxJS Site: pravda SZ: lifepravda  BN:8 -->
+<div id="adriver_banner_858632151"></div>
+
+<script type="text/javascript">
+var currentLocation = window.location;
+if(currentLocation.pathname != "/society/2017/12/6/227814/") {
+new adriver("adriver_banner_858632151", {sid:177521, bt:52, sz:'lifepravda', bn:8});
+ }
+</script>
+
+<!--  AdRiver code END  -->
+
+
+
+
+<script type="text/javascript" charset="utf-8"><!--<![CDATA[
+/* life.pravda.com.ua top_top_ist -- size: 980x75 */
+document.write(unescape('%3C')+'script src="https://adnet.pravda.com/scripts/3d8isw9xt9x5cfue.js?'+Date.now()+'" type="text/javascript"'+unescape('%3E%3C')+'/script'+unescape('%3E'))
+//]]>--></script>
+
+
+
+                </div>
+
+ <div class="content-block-column"> <div class="item"> <div class="autor-block"> <div class="autor-img-block autor-img-block-1"> <i class="template-img"></i> <img src="https://lifeimg.pravda.com/images/doc/9/a/9a009f4-kucevol.jpg"> </div> <a href="/columns/2019/09/23/238294/"> <p class="autor-block-name">Анатолій Куцевол</p> <h2 class="autor-block-head">Загрозлива сила звички, або Що робити з недопалками сигарет</h2> <p class="autor-block-description">директор Команди підтримки реформ при Мінприроди</p> </a> </div> </div> </div> <div class="content-block-column"> <div class="item"> <div class="autor-block"> <div class="autor-img-block autor-img-block-1"> <i class="template-img"></i> <img src="https://lifeimg.pravda.com/images/doc/d/3/d380cb9-lanasinichkina.jpg"> </div> <a href="/columns/2019/09/20/238276/"> <p class="autor-block-name">Лана Сінічкіна</p> <h2 class="autor-block-head">Чому такий шум через закупівлі ліків через міжнародні організації</h2> <p class="autor-block-description">партнер АО Arzinger, керівник практики охорони здоров'я і фармацевтики</p> </a> </div> </div> </div> <div class="content-block-column"> <div class="item"> <div class="autor-block"> <div class="autor-img-block autor-img-block-1"> <i class="template-img"></i> <img src="https://lifeimg.pravda.com/images/doc/d/2/d2d4897-ff80104-yuliya-orlova0.jpg"> </div> <a href="/columns/2019/09/20/238272/"> <p class="autor-block-name">Юлія Орлова</p> <h2 class="autor-block-head">Як ніколи не видати книгу</h2> <p class="autor-block-description">генеральна директорка видавництва Vivat</p> </a> </div> </div> </div> <div class="content-block-column"> <div class="img-wrap" onclick="location.href='/society/2019/09/25/238326/';"> <img src="https://lifeimg.pravda.com/images/doc/0/6/0602164-021.jpg"> <div class="text-wrap"> <div class="statistic-bottom-block"> <div class="look-block"> <a href="/society/2019/09/25/238326/"> <i class="look-icon"></i> <span class="statistic-text">&nbsp;1097</span> </a> </div> <div class="comment-bottom-block"> <a href="/society/2019/09/25/238326/"> <i class="comment-icon"></i> <span class="statistic-text"><span class="fb-comments-count" data-href="https://life.pravda.com.ua/society/2019/09/25/238326/"></span></span> </a> </div> </div> <div class="text-block"> <a href="/society/2019/09/25/238326/" class="heading">Суспільство</a> <h2 class="head"><a href="/society/2019/09/25/238326/">Скандал у МОЗ, день другий: протести “Геть Супрун”, бунт журналістів і черги на роботу</a></h2> <a href="/society/2019/09/25/238326/" class="autor-name">Ірина Андрейців, Наталiя Бушковська</a> </div> <div class="text-block-hover"> </div> </div> </div> </div> <div class="content-block-column"> <div class="img-wrap" onclick="location.href='/travel/2019/09/25/238315/';"> <img src="https://lifeimg.pravda.com/images/doc/d/a/dad5067-harry-potter-300.jpg"> <div class="text-wrap"> <div class="statistic-bottom-block"> <div class="look-block"> <a href="/travel/2019/09/25/238315/"> <i class="look-icon"></i> <span class="statistic-text">&nbsp;1780</span> </a> </div> <div class="comment-bottom-block"> <a href="/travel/2019/09/25/238315/"> <i class="comment-icon"></i> <span class="statistic-text"><span class="fb-comments-count" data-href="https://life.pravda.com.ua/travel/2019/09/25/238315/"></span></span> </a> </div> </div> <div class="text-block"> <a href="/travel/2019/09/25/238315/" class="heading">Подорожі</a> <h2 class="head"><a href="/travel/2019/09/25/238315/">Вінґардіум Левіоса! 45 місць, які варто відвідати фанатам Гаррі Поттера. ФОТО</a></h2> <a href="/travel/2019/09/25/238315/" class="autor-name"></a> </div> <div class="text-block-hover"> </div> </div> </div> </div> <div class="content-block-column"> <div class="img-wrap" onclick="location.href='/health/2019/09/24/238313/';"> <img src="https://lifeimg.pravda.com/images/doc/e/5/e58530a-moz2.jpg"> <div class="text-wrap"> <div class="statistic-bottom-block"> <div class="look-block"> <a href="/health/2019/09/24/238313/"> <i class="look-icon"></i> <span class="statistic-text">&nbsp;51762</span> </a> </div> <div class="comment-bottom-block"> <a href="/health/2019/09/24/238313/"> <i class="comment-icon"></i> <span class="statistic-text"><span class="fb-comments-count" data-href="https://life.pravda.com.ua/health/2019/09/24/238313/"></span></span> </a> </div> </div> <div class="text-block"> <a href="/health/2019/09/24/238313/" class="heading">Здоров'я</a> <h2 class="head"><a href="/health/2019/09/24/238313/">“Знову починається ручне управління”: як нове керівництво МОЗ хоче звільнити керівників директоратів. Аудіозапис</a></h2> <a href="/health/2019/09/24/238313/" class="autor-name">Ірина Андрейців</a> </div> <div class="text-block-hover"> </div> </div> </div> </div> 
+
+<div class="sticked">
+<!-- /52555387/life.pravda.com.ua_300x600 -->
+<div>
+<script type="text/javascript" charset="utf-8"><!--<![CDATA[
+/* life.pravda.com.ua life 300*600 -- size: 300x600 */
+document.write(unescape('%3C')+'script src="https://adnet.pravda.com/scripts/o95p93yzxlx1hy97.js?3212'+Date.now()+'" type="text/javascript"'+unescape('%3E%3C')+'/script'+unescape('%3E'))
+//]]>--></script>
+</div>
+</div>
+
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="pagewrap page-point"> <h3 class="info-block-head">Головне на сайті</h3><br> <div class="content-wrap"> <div class="content-block-center block-1"> <div class="img-wrap" onclick="location.href='/society/2019/09/25/238326/';"> <img src="https://lifeimg.pravda.com/images/doc/0/6/0602164-021.jpg"> <div class="text-wrap"> <div class="text-block"> <a href="/society/2019/09/25/238326/" class="heading">Суспільство</a> <h2 class="head"><a href="/society/2019/09/25/238326/">Скандал у МОЗ, день другий: протести “Геть Супрун”, бунт журналістів і черги на роботу</a></h2> <div class="statistic-bottom-block"> <div class="look-block"> <a href=""> <i class="look-icon"></i> <span class="statistic-text"> <!-- include file="/counter/get/238326" --> </span> </a> </div> <a href="/society/2019/09/25/238326/" class="autor-name">Ірина Андрейців, Наталiя Бушковська</a> <div class="comment-bottom-block"> <a href="/society/2019/09/25/238326/"> <i class="comment-icon"></i> <span class="statistic-text"><span class="fb-comments-count" data-href="https://life.pravda.com.ua/society/2019/09/25/238326/"></span></span> </a> </div> </div> </div> <div class="text-block-hover"> </div> </div> </div> </div> <div class="content-block-column block-2"> <div class="column"> <div class="article-announcement-block"> <a href="/health/2019/09/25/238327/" class="article-announcement-text">Заступники міністра МОЗ не змогли домовитись про розблокування Одеського медуніверситету </a> </div> <div class="article-announcement-block"> <a href="/society/2019/09/25/238325/" class="article-announcement-text">За переповненість шкіл має відповідати місцева влада – очільниця МОН</a> </div> <div class="article-announcement-block"> <a href="/society/2019/09/25/238324/" class="article-announcement-text">"Навчання має пройти 100 000 вчителів": очільниця МОН про підготовку освітян</a> </div> <div class="article-announcement-block"> <a href="/society/2019/09/25/238323/" class="article-announcement-text">"Це 100% фейк": радник міністра про російські соцмережі в МОЗ</a> </div> <div class="article-announcement-block"> <a href="/health/2019/09/25/238322/" class="article-announcement-text">У МОЗ створять Офіс пацієнта, який очолить особисто міністр</a> </div> </div> </div> <div class="content-block-column block-3"> <div class="img-wrap" onclick="location.href='/travel/2019/09/25/238315/';"> <img src="https://lifeimg.pravda.com/images/doc/d/a/dad5067-harry-potter-300.jpg"> <div class="text-wrap"> <div class="statistic-bottom-block"> <div class="look-block"> <a href="/travel/2019/09/25/238315/"> <i class="look-icon"></i> <span class="statistic-text"> <!-- include file="/counter/get/238315" --> </span> </a> </div> <div class="comment-bottom-block"> <a href="/travel/2019/09/25/238315/"> <i class="comment-icon"></i> <span class="statistic-text"><span class="fb-comments-count" data-href="https://life.pravda.com.ua/travel/2019/09/25/238315/"></span></span> </a> </div> </div> <div class="text-block"> <a href="/travel/2019/09/25/238315/" class="heading">Подорожі</a> <h2 class="head"><a href="/travel/2019/09/25/238315/">Вінґардіум Левіоса! 45 місць, які варто відвідати фанатам Гаррі Поттера. ФОТО</a></h2> <a href="/travel/2019/09/25/238315/" class="autor-name"></a> </div> <div class="text-block-hover"> </div> </div> </div> <div class="img-wrap" onclick="location.href='/health/2019/09/24/238313/';"> <img src="https://lifeimg.pravda.com/images/doc/e/5/e58530a-moz2.jpg"> <div class="text-wrap"> <div class="statistic-bottom-block"> <div class="look-block"> <a href="/health/2019/09/24/238313/"> <i class="look-icon"></i> <span class="statistic-text"> <!-- include file="/counter/get/238313" --> </span> </a> </div> <div class="comment-bottom-block"> <a href="/health/2019/09/24/238313/"> <i class="comment-icon"></i> <span class="statistic-text"><span class="fb-comments-count" data-href="https://life.pravda.com.ua/health/2019/09/24/238313/"></span></span> </a> </div> </div> <div class="text-block"> <a href="/health/2019/09/24/238313/" class="heading">Здоров'я</a> <h2 class="head"><a href="/health/2019/09/24/238313/">“Знову починається ручне управління”: як нове керівництво МОЗ хоче звільнити керівників директоратів. Аудіозапис</a></h2> <a href="/health/2019/09/24/238313/" class="autor-name">Ірина Андрейців</a> </div> <div class="text-block-hover"> </div> </div> </div> </div> </div> </div>
+    <footer class="footer">
+      <div class="pagewrap">
+        <div class="footer-flex-block">
+          <div class="mobile-flex-wrap-top">
+            <div class="logo-block footer-logo-block">              
+              <a class="logo" href="/">
+                <i class="logo-template"></i>
+                <img class="logo-photo" src="/images/doc/9/6/960a633-depositphotos-465-6.jpg" alt="">
+              </a>
+             
+            </div>
+            <div class="net-block">
+              <a class="icon-fb-footer" href="https://www.facebook.com/UPZhyttya.culture/" target="_blank"><img src="/images/v2/icon-fb-footer.png" alt=""></a>
+              <a class="icon-vk-footer" href="https://twitter.com/UPZhyttya" target="_blank"><img src="/images/v2/icon-twitter-footer.png" alt=""></a>
+              <a class="icon-yt-footer" href="https://www.youtube.com/user/lifepravda" target="_blank"><img src="/images/v2/icon-yt-footer.png" alt=""></a>
+              <!--<a class="icon-ig-footer" href="#"><img src="/images/v2/icon-ig-footer.png" alt=""></a>-->
+            </div>
+          </div>
+          <div class="mobile-flex-wrap-bottom">
+
+            <div class="footer-form-wrap">
+<!--
+              <form action="/subscribe/" method="post" class="footer-form">
+                <input name="email" class="form-input" placeholder="Ваш e-mail"></input>
+                <button class="form-button">Підписатися</button>
+              </form>
+-->
+            </div>
+            <div class="footer-copyright-wrap">
+              <div class="footer-about-us">
+                <p class="footer-about-us-text">&copy; 2007-2019, Українська правда.</p>
+                <div class="footer-about-us-link"><!--a href="">Про проект</a--> <a href="/advertising/">Реклама</a>, <a href="/rules/">Правила републікації</a></div>
+              </div>
+              <div class="copyright">
+                <p class="copyright-text">Текстові матеріали, розміщені на сайті lifepravda.com.ua, можна безкоштовно використовувати в обсязі не більше 50% за умови прямого посилання у підзаголовку чи першому реченні матеріалу.<br>
+Матеріали з позначкою PROMOTED, СПЕЦПРОЕКТ, ЗА ПІДТРИМКИ публікуються на правах реклами.
+</p>
+                <div class="counter"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click;ukrpravda' "+
+"target=_blank><img src='//counter.yadro.ru/hit;ukrpravda?t14.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet--> <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-554376-7', 'auto');
+  ga('send', 'pageview');
+
+</script></div> 
+              </div>
+            </div>
+          </div>
+        </div>  
+      </div>  
+    </footer>
+
+  <div class="modal fade search-popup" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="login-popup-content">
+        <div class="login-popup-form-wrap">          
+          <h2 class="login-popup-head">Пошук по сайту</h2>         
+          <form action="/search/" method="get" class="login-popup-form">           
+            <input name="search" class="form-input" placeholder="Що ви шукаєте"/>
+            <button class="form-button">Знайти</button>
+          </form>               
+        </div>
+      </div>
+      <div class="close-block" data-dismiss="modal" aria-hidden="true">
+        <i class="icon-close"></i>
+      </div>
+    </div>
+  </div>
+
+<!--script src="/misc/v2/vendor.js"></script-->
+<script src="/misc/v2/plugins.js"></script>
+<script src="/misc/v2/main.js"></script>
+
+<img src="//life.pravda.com.ua/counter/235691" width="0" height="0" style="display: none;">
+
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+    FB.init({
+          appId            : '592361947628060',
+          autoLogAppEvents : true,
+          xfbml            : true,
+          version          : 'v2.12'
+    });
+};
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/uk_UA/sdk.js#xfbml=1&version=v2.12&appId=592361947628060&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script>
+  $(document).ready(function(){
+    $(".sticked").sticky({ topSpacing:15, bottomSpacing:2010 });
+  });
+</script>
+
+<script type="text/javascript" charset="utf-8"><!--<![CDATA[
+/* life.pravda.com.ua Life-top-layer -- size: x */
+document.write(unescape('%3C')+'script src="https://adnet.pravda.com/scripts/hoycd0j5fhya83wy.js" type="text/javascript"'+unescape('%3E%3C')+'/script'+unescape('%3E'))
+//]]>--></script>
+
+<!--  AdRiver code START. Type:AjaxJS Site: pravda SZ: life-mediaways  BN:15 -->
+<div id="adriver_banner_1938284704"></div>
+<script type="text/javascript">
+new adriver("adriver_banner_1938284704", {sid:177521, bt:52, sz:'life-mediaways', bn:15});
+</script>
+
+<!--  AdRiver code END  -->
+
+<script type="text/javascript" charset="utf-8"><!--<![CDATA[
+/* life.pravda.com.ua catfishkodlife -- size: 1x1 */
+document.write(unescape('%3C')+'script src="https://adnet.pravda.com/scripts/mbeyfdk1rhaxz14c.js?'+Date.now()+'" type="text/javascript"'+unescape('%3E%3C')+'/script'+unescape('%3E'))
+//]]>--></script>
+<style>.webpush-top-left{background-color:rgba(240,240,240,.95);position:fixed;z-index:1000;align-items:center;padding:18px;color:#1a1a1a;line-height:1.3;box-shadow:0 0 15px 0 rgba(0,0,0,.35);max-width:350px;margin:20px;top:0;left:0;-webkit-transform:translateX(-420px);transform:translateX(-420px)}.webpush-top-left:before{display:block;width:30px;height:30px;min-width:30px;margin-right:20px}@-webkit-keyframes webpush-slide-in-left{20%,100%{-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes webpush-slide-in-left{20%,100%{-webkit-transform:translateX(0);transform:translateX(0)}}.webpush-top-left.do-show{-webkit-animation-name:webpush-slide-in-left;-webkit-animation-duration:7s;-webkit-animation-timing-function:ease;-webkit-animation-iteration-count:2;-webkit-animation-direction:alternate;animation-name:webpush-slide-in-left;animation-duration:7s;animation-timing-function:ease;animation-iteration-count:2;animation-direction:alternate}.webpush-img{margin-right:10px;margin-bottom:5px}.webpush-closebutton{}.webpush-top-left{font-family:proxima_nova_rgregular,Arial,sans-serif;font-size:13px;color:#000}.webpush-top-left h3{font-family:proxima_nova_rgbold,Arial,sans-serif;font-size:15px;color:#000}.webpush-top-left a{color:#000}.webpush-top-left a:hover{color:#900022}.webpush-top-left img{max-width:105px}.webpush-top-left button{float:right;background:#f0f0f0;border:#d6d6d6 1px solid;width:19px;height:19px;background-size:19px;background-image:url(data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyNCAyNCI+PHN0eWxlPi5zdDB7ZmlsbDojNjY2fTwvc3R5bGU+PHBhdGggY2xhc3M9InN0MCIgZD0iTTE4LjYgNi4xIDE3LjkgNS40IDEyIDExLjIgNi4xIDUuNCA1LjQgNi4xIDExLjIgMTIgNS40IDE3LjkgNi4xIDE4LjYgMTIgMTIuOCAxNy45IDE4LjYgMTguNiAxNy45IDEyLjggMTJ6Ii8+PC9zdmc+);background-position:-1px;cursor:pointer}.webpush_header{height:15px;display:inline-block;background:#900022;color:#fff;font-family:proxima_nova_rgregular,Arial,sans-serif;font-size:12px;text-transform:uppercase;padding:2px 6px 1px;margin-bottom:4px}</style><div id=internalwebpush class=webpush-top-left></div><script>function WPXSSescapeOutput(toOutput){return toOutput.replace(/\&/g,'&amp;').replace(/\</g,'&lt;').replace(/\>/g,'&gt;').replace(/\"/g,'&quot;').replace(/\'/g,'&#x27').replace(/\//g,'&#x2F');}
+function WPisValidURL(string){var res=string.match(/(http(s)?:\/\/.)?(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/g);if(res==null){return false;}
+return true;}
+function WPanimationSupported(){elem=document.createElement('div');if((elem.style.animation!==undefined)||(elem.style.webkit-animation!==undefined)){console.log('[ws.js]: animation is supported');return true;}
+console.log('[ws.js]: animation is not supported');return false;}
+var WPhidden,WPvisibilityChange,WPpendingStart=0;if(typeof document.hidden!=="undefined"){WPhidden="hidden";WPvisibilityChange="visibilitychange";}else if(typeof document.msHidden!=="undefined"){WPhidden="msHidden";WPvisibilityChange="msvisibilitychange";}else if(typeof document.webkitHidden!=="undefined"){WPhidden="webkitHidden";WPvisibilityChange="webkitvisibilitychange";}
+function WPhandleVisibilityChange(){if(document[WPhidden]){console.log('[ws.js]: hidden');}else{console.log('[ws.js]: visible');if(WPpendingStart==1){$('#internalwebpush').removeClass().addClass('webpush-top-left').addClass('do-show');}
+WPpendingStart=0;}}
+if('WebSocket'in window){if(typeof document.addEventListener==="undefined"||WPhidden===undefined){console.log("[ws.js]: No support for Page Visibility API.");}
+else{if(WPanimationSupported()){document.addEventListener(WPvisibilityChange,WPhandleVisibilityChange,false);UPwebsocketConn=new WebSocket("wss://ws.pravda.com.ua/ws/wscreamer");UPwebsocketConn.onmessage=function(event){console.log("[ws.js]: received message",event.data);var m=JSON.parse(event.data);if(WPisValidURL(m.url)&&WPisValidURL(m.image)){var x="<div class=\"webpush_header\">"+WPXSSescapeOutput(m.slogan)+"</div><button class=\"webpush-closebutton\" id=\"webpush-closebutton\"></button><a href=\""+m.url+"\" target=\"_blank\"><img  class=\"webpush-img\" src=\""+m.image+"\" width=64 heigh=64 align=left><h3>"+WPXSSescapeOutput(m.title)+"<br>"+WPXSSescapeOutput(m.body)+"</h3></a>";$('#internalwebpush').replaceWith('<div id="internalwebpush" class="webpush-top-left">'+x+'</div>');$('#webpush-closebutton').click(function(){$('#internalwebpush').removeClass('do-show');});if(document[WPhidden]){console.log("[ws.js]: tab is hidden");WPpendingStart=1;}
+else{setTimeout("$('#internalwebpush').addClass('do-show')",5000);}}}}}}</script>
+</body>
+</html>
