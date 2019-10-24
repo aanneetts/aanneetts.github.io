@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Професії майбутнього</title>
+
+	<script>
+function hello() {
+x=document.form.txt.value;
+y=document.form.date.value;
+alert("Hello "+x+". \nToday is "+ y)
+}
+</script>
+</head>
+<body>
+	<form name="form">
+<p>Особисті дані для реєстрування: </p>
+<fieldset> <p>Обов'язкове поле</p>
+<p>Ім'я: <input name="txt" required></p>
+<p>Прізвище: <input name="name" required></p>
+<p>E-mail: <input type="email" name="email" required></p>
+<p>Пароль: <input type="password" name="password" required></p>
+</fieldset>	<br>
+<fieldset><p>Заповніть поля за бажанням</p>
+	  <p>Стать</p>
+	   Жінка <input type="radio" name="sex" value="male" checked>
+	   Чоловік <input type="radio" name="sex" value="female">
+	  <p>Дата народження: <input type="date" id="date" name="date"/></p>
+	  <p>Ваші захоплення <input type="password" name="psw" placeholder="Напишіть ваше хоббі" required></p>
+  </fieldset>
+   <input type="button" value="Привітатися" onclick="hello()">
+</body>
+</html>
